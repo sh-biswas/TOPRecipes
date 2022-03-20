@@ -10,3 +10,7 @@ It will demonstrate what I've learned so far regarding HTML basics:
 - Text
 - Elements
 - Tags
+
+The three recipes featured are fettuccine alfredo pasta, mushroom stroganoff, and penne alla vodka. 
+
+The site is deployed at https://sh-biswas.github.io/TOPRecipes/
