@@ -30,11 +30,13 @@ h2 {
     text-align: center;
 }
 
-div.ingredients, div.steps {
+div.ingredients, 
+div.steps {
     text-align: center;
 }
 
-ul, ol {
+ul, 
+ol {
     display: inline-block; 
 	text-align: left; 
     list-style-type: square;
