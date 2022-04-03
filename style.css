@@ -30,15 +30,16 @@ h2 {
     text-align: center;
 }
 
-div.ingredients {
+div.ingredients, div.steps {
     text-align: center;
 }
 
-ul {
+ul, ol {
     display: inline-block; 
 	text-align: left; 
     list-style-type: square;
     font-family: Calibri, 'Trebuchet MS', sans-serif;
 }
+
 
 
